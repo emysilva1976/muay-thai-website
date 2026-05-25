@@ -25,7 +25,7 @@ Website institucional desenvolvido para um centro de treinamento de Muay Thai e 
 
 ## 📸 Preview
 
-<img src="img/banner.jpg.jpeg">
+<img src="img/banner.jpg.png">
 
 ---
 
